@@ -1,0 +1,13 @@
+volume
+returns
+log returns
+momentum
+dispersion
+lag returns
+rsi 
+momentum
+ewma
+moments
+twap?
+macd?
+bb?
